@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "LeBon.dtd">
+
+<menu>
+	<coffee>
+		<coffeename>French Vanilla Iced Coffee</coffeename>
+		<price>Php 100.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\french-vanilla-iced-coffee-8-of-20-720x720.jpg </media>
+        <link>add_cart.php?id=36</link>
+	</coffee>
+	
+	<coffee>
+		<coffeename>Le Von Coup Coffee</coffeename>
+		<price>Php 150.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\le von coup.jpg </media>
+        <link>add_cart.php?id=36</link>
+	</coffee>
+	
+	<coffee>
+		<coffeename>Louv Kafei</coffeename>
+		<price>Php 129.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\cafe.png</media>
+        <link>add_cart.php?id=36</link>
+	</coffee>
+	
+	<Patisserie>
+		<Patisseriename>French Toast</Patisseriename>
+		<price>Php 55.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\french-toast-11-1200.jpg</media>
+        <link>add_cart.php?id=36</link>
+	</Patisserie>
+	
+	<Patisserie>
+		<Patisseriename>Croissant</Patisseriename>
+		<price>Php 85.00</price>
+    	<media type="image"> C:\xampp\htdocs\dianne\hi\images\crossaint.jpg</media>
+        <link>add_cart.php?id=36</link>
+	</Patisserie>
+	
+	<Patisserie>
+		<Patisseriename>Macarouin Love</Patisseriename>
+		<price>Php 110.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\macmrn.jpg</media>
+        <link>add_cart.php?id=36</link>
+	</Patisserie>
+	
+	<Patisserie>
+		<Patisseriename>French Bread</Patisseriename>
+		<price>Php 100.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\frech bread.jpg</media>
+        <link>add_cart.php?id=36</link>
+	</Patisserie>
+	
+	<pasta>
+		<pastaname>Pasta French Bean</pastaname>
+		<price>Php 125.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\iq.jpg</media>
+        <link>add_cart.php?id=36</link>
+	</pasta>
+	
+	<pasta>
+		<pastaname>French Onion Pasta</pastaname>
+		<price>Php 140.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\french-onion-pasta-1.jpg</media>
+        <link>add_cart.php?id=36</link>		
+	</pasta>
+	
+	<pasta>
+		<pastaname>Revlou Ribbon French Pasta</pastaname>
+		<price>Php 180.00</price>
+		<media type="image"> C:\xampp\htdocs\dianne\hi\images\ribbon frech pasta.jpg</media>
+        <link>add_cart.php?id=36</link>			
+	</pasta>
+
+</menu>

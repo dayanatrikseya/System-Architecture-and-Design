@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE products SYSTEM "menu.dtd">
+<products>
+  <product>
+    <id>19</id>
+    <name>test</name>
+    <category>Pâtisserie</category>
+    <price>121</price>
+    <image>cake.jpg</image>
+  </product>
+  <product>
+    <id>20</id>
+    <name>1</name>
+    <category>Pâtisserie</category>
+    <price>123</price>
+    <image>cake2.jpg</image>
+  </product>
+</products>
